@@ -34,5 +34,3 @@ The study evaluates whether large language models produce stable, reproducible r
 | Llama 4 Scout | Meta / Groq | 0.7 only |
 
 ---
-
-## Repository Structure
